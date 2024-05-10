@@ -2,19 +2,19 @@
 
 
 
-###### **Cloning This Repo**
+### **Cloning This Repo**
 
 ```
-git clone 
+git clone https://github.com/justnotiyann/tailwind-x-alpine-starterkit.git
 ```
 
 
 
-###### **Install all dependecies**
+### **Install all dependecies**
 
 
 
-Using NPM
+**Using NPM**
 
 ```bash
 npm install
@@ -22,7 +22,7 @@ npm install
 
 
 
-Using Yarn
+**Using Yarn**
 
 ```bash
 yarn
